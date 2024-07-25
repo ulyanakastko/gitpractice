@@ -35,7 +35,7 @@ bash
 Copy code
 git clone https://github.com/username/project-name.git
 cd project-name
-Prepare Data: Place data files in the data directory. Obtain from [data source link] or use provided samples.
+Prepare Data: Place data files in the data directory. Use provided samples.
 
 #### Run Scripts:
 
