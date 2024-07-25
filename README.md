@@ -1,4 +1,4 @@
-This repository contains code and data for Project Name, aiming to [describe the primary goal or functionality]. It includes:
+This repository contains code and data for GitPractice, which aims to learn how to use GitHub. It includes:
 
 
 **Data Processing**: Scripts for data cleaning and preprocessing.
@@ -58,8 +58,12 @@ python scripts/model_training.py
 
 ### Constraints/Limitations
 
-Data Quality: Results depend on the input data quality.
-Performance: Large datasets require significant computational resources.
-Environment: Tested on Python 3.8; other versions not guaranteed.
-Dependencies: Ensure specified package versions are used.
-Scalability: Not optimized for very large datasets or real-time processing.
+**Data Quality:** Results depend on the input data quality.
+
+**Performance:** Large datasets require significant computational resources.
+
+**Environment:** Tested on Python 3.8; other versions not guaranteed.
+
+**Dependencies:** Ensure specified package versions are used.
+
+**Scalability:** Not optimized for very large datasets or real-time processing.
